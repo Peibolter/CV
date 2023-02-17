@@ -22,11 +22,11 @@ const Footer = () => {
                 </ul>
 
                 <div className="footer__social">
-                    <a href="https://www.linkedin.com/in/pablo-gonzalez-rodriguez-1464a7150/" className="footer__social-link" target="_blank"><i class="uil uil-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/pablo-gonzalez-rodriguez-1464a7150/" className="footer__social-link" target="_blank" rel="noreferrer"><i class="uil uil-linkedin"></i></a>
 
-                    <a href="https://www.youtube.com/watch?v=5bId3N7QZec" className="footer__social-link" target="_blank"><i class="uil uil-dribbble"></i></a>
+                    <a href="https://www.youtube.com/watch?v=5bId3N7QZec" className="footer__social-link" target="_blank"rel="noreferrer" ><i class="uil uil-dribbble"></i></a>
 
-                    <a href="https://github.com/peibolter" className="footer__social-link" target="_blank"><i class="uil uil-github-alt"></i></a>
+                    <a href="https://github.com/peibolter" className="footer__social-link" target="_blank" rel="noreferrer"><i class="uil uil-github-alt"></i></a>
                 </div>
 
                 <span className="footer__copy">
