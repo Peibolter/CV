@@ -14,14 +14,14 @@ const Info = () => {
 
             <div className="about__box">
                 <i class='bx bx-briefcase-alt-2 about__icon' ></i>
-                <h3 className="about__title">Completed</h3>
-                <span className="about__subtitle">5 Big Projects</span>
+                <h3 className="about__title">Projects</h3>
+                <span className="about__subtitle">4 Big Projects</span>
             </div>
 
             <div className="about__box">
                 <i class='bx bx-support about__icon' ></i>
                 <h3 className="about__title">Support</h3>
-                <span className="about__subtitle">Online 24/7</span>
+                <span className="about__subtitle">Im here to help</span>
             </div>
         </div>
     )
