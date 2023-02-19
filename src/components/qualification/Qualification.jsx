@@ -116,7 +116,7 @@ const Qualifications = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Javascript,Typescript</h3>
+                                <h3 className="qualification__title">Javascript,Java</h3>
                                 <span className="qualification__subtitle">ViewNext- Spain</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>2021 - Present
@@ -127,7 +127,7 @@ const Qualifications = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">React,NodeJS,NextJS</h3>
+                                <h3 className="qualification__title">React,NodeJS</h3>
                                 <span className="qualification__subtitle">Orienteed- Spain</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>2021 - Present
