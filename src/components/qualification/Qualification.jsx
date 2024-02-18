@@ -82,8 +82,8 @@ const Qualifications = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">NodeJS Dev</h3>
-                                <span className="qualification__subtitle">Orienteed - Spain</span>
+                                <h3 className="qualification__title">React Developer</h3>
+                                <span className="qualification__subtitle">Orienteed/Riu - Spain</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>2022 - Present
                                 </div>
@@ -130,13 +130,30 @@ const Qualifications = () => {
                                 <h3 className="qualification__title">React,NodeJS</h3>
                                 <span className="qualification__subtitle">Orienteed- Spain</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>2023 - Present
                                 </div>
                             </div>
                             <div>
                                 <span className="qualification__rounder"></span>
                                 <span className="qualification__line"></span>
                             </div>
+                        </div>
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">React Native Developer</h3>
+                                <span className="qualification__subtitle">RIu Hoteles- Spain</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i>2023 - Present
+                                </div>
+                            </div>
+
                         </div>
 
                     </div>
